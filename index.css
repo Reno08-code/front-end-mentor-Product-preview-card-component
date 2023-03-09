@@ -140,7 +140,7 @@ p.discount{
     h6.pro-cat, h2.pro-name, p.pro-des, .price{
         padding-bottom: 16px;
     }
-    h2.pro-name{
+    h1.pro-name{
         font-size: 28px;
     }
     p.pro-des{
